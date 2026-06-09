@@ -1,6 +1,6 @@
 # Election Process Assistant
 
-A modern Vite + React app that guides first-time voters through a structured election journey.
+A modern Vite + React app that guides first-time voters through a structured election journey
 
 ## Features
 
